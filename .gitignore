@@ -1,0 +1,5 @@
+.trigger
+
+/node_modules
+
+.env*.local

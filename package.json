@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.47.10",
+    "@trigger.dev/sdk": "^3.3.7",
+    "dotenv": "^16.4.7",
+    "env-var": "^7.5.0"
+  },
+  "devDependencies": {
+    "@trigger.dev/build": "^3.3.7"
+  }
+}
